@@ -1,0 +1,27 @@
+/* will be used in duplicate.sh file
+*/
+Air
+Water
+Water
+Sky
+Soil
+Red
+Red
+Green
+Blue
+Blue
+Air
+Sky
+Lens
+Blue
+Flower
+Flower
+Lens
+Boat
+Water
+Soil
+Water
+Sea
+River
+Pond
+Sea
