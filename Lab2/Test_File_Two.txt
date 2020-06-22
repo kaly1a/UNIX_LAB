@@ -1,0 +1,9 @@
+/* will be used in duplicate(del).sh file
+*/
+
+Unix
+C#
+Ruby
+Pascal
+Java
+C
