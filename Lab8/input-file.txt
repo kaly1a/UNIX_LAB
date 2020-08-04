@@ -1,0 +1,7 @@
+C Programming       35 9  1.35622
+Big Data            13 33 0.87211
+Red Paria           85 10 6.33324
+371Java Programming 22 23 0.98766
+Machine Learning    46 02 0.55667
+373Unix Programming 15 31 0.78654
+Peter Indiana       43 21 1.23456
