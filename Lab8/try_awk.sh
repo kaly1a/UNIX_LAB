@@ -35,7 +35,10 @@ do
                         echo "Program File:"
                         cat program-file.txt
                         echo
-                        echo "OUTPUT:"                                                                                                                                                                                                     awk -f program-file.txt input-file.txt                                                                                                                                                                             echo                                                                                                                                                                                                               ;;
+                        echo "OUTPUT:"
+                        awk -f program-file.txt input-file.txt
+                        echo
+                        ;;
         2)
                         echo "Input File:"
                         cat input-file.txt
