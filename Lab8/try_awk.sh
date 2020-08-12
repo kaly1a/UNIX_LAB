@@ -15,7 +15,7 @@ Create a text file of your choice and execute the following:
 while true
 do
         echo "Press Ctrl+C to exit"
-        echo "1. Print the contents of program-file and input-file"
+        echo "1. Executing command from program-file on input-file"
         echo "2. Print the third field of each record in input-file"
         echo "3. Print the first field of record that contains 0.5"
         echo "4. Print the first field of record starts with digits"
