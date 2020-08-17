@@ -1,0 +1,11 @@
+/*
+using this in 3.sh
+*/
+
+Christ University in Bangalore, Karnataka, India.
+Founded in 1969 as an autonomous college, on 22 July 2008 it was declared
+as an institution deemed to be university under section 3 of UGC Act 1956
+by the Ministry of Human Resources Development, Government of India.
+The University has over 18,000 students and more than 800 faculty members.
+In 2016, the University was accredited by National Assessment and Accreditation Council with A Grade.
+In 2017 India Today-Nielsen survey, Christ University is ranked among the top private universities in India.
